@@ -42,9 +42,12 @@
       }
   }
 
-  /* Formatting for title */
-
-
+  h1 {
+    font-size: 2rem;
+    text-align: center;
+    text-transform: lowercase;
+    color:yellow
+  }
   /* Formatting for background */
   body {
       background-image: linear-gradient( to right, #DECBA4 1%, #3E5151 100% ); 
