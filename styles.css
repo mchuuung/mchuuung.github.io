@@ -43,9 +43,9 @@
   }
 
   h1 {
-    font-size: 4rem;
+    font-size: 5wv;
     text-align: center;
-    text-transform: lowercase;
+    text-transform: uppercase;
     color:white
   }
   /* Formatting for background */
